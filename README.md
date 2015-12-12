@@ -1,4 +1,4 @@
-# Essay - Ruby
+# Prompt - Ruby
 
 ## Strings
 
@@ -6,7 +6,7 @@
 
 1. Learn about strings in Ruby.
 
-### Prompts
+### Instructions
 
 Research and then write answers to the following questions in **lib/strings.md**.
 
@@ -19,7 +19,7 @@ Research and then write answers to the following questions in **lib/strings.md**
 Remember two things:
 
 1. You don't need to submit any code to us for this assignment. Just provide in-your-own-words answers for the questions above.
-2. We call this an "essay", but we're not looking for any kind of advanced writing skills nor any kind of length. Just be clear and thoughtful about what you write--organize it however it makes sense for you.
+2. We're not looking for any kind of advanced writing skills nor any kind of length. Just be clear and thoughtful about what you write--organize it however it makes sense for you.
 
 ### Resources
 
